@@ -6,7 +6,12 @@ Download and place the following files in a directory (doesn't matter where on y
 
 Files to have in this directory:
 
-NCPR_code.sh findaminoacid_acidic.pl findaminoacid_basic.pl window.py Fasta.fa (modify the Fasta.fa file by adding protein of interest Fasta sequences, examples are given) plot.R
+NCPR_code.sh 
+findaminoacid_acidic.pl 
+findaminoacid_basic.pl 
+window.py 
+Fasta.fa (modify the Fasta.fa file by adding protein of interest Fasta sequences, examples are given) 
+plot.R
 
 Open the Terminal app and go to the directory with the code (I will call it "NCPR_chargeblock_plot" for this example):
 
