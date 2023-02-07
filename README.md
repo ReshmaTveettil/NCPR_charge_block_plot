@@ -1,4 +1,4 @@
-# NCPR_charge_block_plot
+# NCPR_chargeblock_plot
 
 The Net Charge Per Residue (NCPR) values were calculated for 10 amino acid sliding windows. If the sliding window NCPR values were greater than or equal to the absolute value of 5, then the respective window is defined as an acidic block or basic block based on the charge (negative: acidic blue, positive: basic, red).
 
