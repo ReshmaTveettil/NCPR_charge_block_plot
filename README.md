@@ -17,6 +17,10 @@ Open the Terminal app and go to the directory with the code (I will call it "NCP
 
 $ cd /path/to/NCPR_chargeblock_plot
 
+Give permissions to the path if necessary.
+
+$ chmod 777 NCPR_code.sh
+
 To run the script, run the following function.
 
 $ ./NCPR_code.sh
